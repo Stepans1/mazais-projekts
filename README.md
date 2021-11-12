@@ -4,7 +4,7 @@ mazais projekts
 
 ## Apraksts
 	Īss projekta apraksts 
-  programma kura ģenere labirintu
+  programma kura ģenere labirintu no kuras vajag iziet 
 ## Galvenās funkcijas
 	
 	Apstrada datus
