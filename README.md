@@ -1,6 +1,6 @@
 # mazais-projekts
 # Projekta nosaukums
-mazais projekts
+Labirints
 
 ## Apraksts
 	Īss projekta apraksts 
